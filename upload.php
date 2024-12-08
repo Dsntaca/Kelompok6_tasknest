@@ -109,6 +109,8 @@ if (!isset($_SESSION['username'])) {
                 <option value="" hidden>Choose</option>
                 <option value="1">Desinta Putri</option>
                 <option value="2">Jasmine Aulia</option>
+                <option value="3">haris eka</option>
+                <option value="4">Saliza Dewangga</option>
             </select>
 
             <button type="submit" id="submitButton" class="btn btn-secondary mt-3 align-items-center">Submit</button>
